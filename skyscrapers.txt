@@ -1,0 +1,9 @@
+Burj Khalifa,828
+Shanghai Tower,632
+Abraj Al-Bait Clock Tower,601
+Ping An Finance Centre,599
+Goldin Finance 117,596.5
+One World Trade Center,541.3
+CTF Finance Centre,530
+Taipei 101,509
+Shanghai World Financial Center,492
